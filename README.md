@@ -1,6 +1,6 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://img.freepik.com/vector-gratis/encabezado-tipografico-desarrollador-frontend-mejora-diseno-interfaz-sitio-web-programacion-pagina-web-codificacion-prueba-profesion-ti-ilustracion-vector-plano-aislado_613284-304.jpg?w=1380&amp;t=st=1694026867~exp=1694027467~hmac=e0904240e8abf3f722406471646165aa8bece64826f982c6ee8d22d5149ef7b6">
-<h1 align="center">Hi 👋, I'm Ignacio Erviti</h1>
-<h3 align="center">Hello, my name is Ignacio Erviti and I am passionate about frontend development and design in all its aspects and forms of expression. I consider myself a very creative, hard-working and decisive person.</h3>
+<h1 align="center">Hi 👋, my name is Ignacio Erviti</h1>
+<h3 align="center">I am passionate about frontend development and design in all its aspects and forms of expression. I consider myself a very creative, hard-working and decisive person.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erviti88&label=Profile%20views&color=0e75b6&style=flat" alt="erviti88" /> </p>
 
