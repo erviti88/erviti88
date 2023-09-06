@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript, Angular and React**
 - 💬 Ask me about **Javascript, Angular and React**
-- ⚡ Fun fact **I love learning all kinds of languages, including programming languages.**
+- ⚡ Fun fact: **I love learning all kinds of languages, including programming languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
