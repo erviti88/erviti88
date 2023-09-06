@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erviti88&label=Profile%20views&color=0e75b6&style=flat" alt="erviti88" /> </p>
 
 - 🌱 I’m currently learning **Javascript, Angular and React**
+- 💬 Ask me about **Javascript, Angular and React**
+- ⚡ Fun fact **I love learning all kinds of languages, including programming languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
