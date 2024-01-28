@@ -1,4 +1,4 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://uc26a01cf6d5579ac9ad98dadeec.previews.dropboxusercontent.com/p/thumb/ACDcAllI8WeGhsRROC3xz0oKO9Sr5Jh1Nb1pvg2HnYnA3gbm875kuspWE9EPs1OHp44uHTcz6lSETz4xcl1O0ad8JrDzMfFiMfYi3KH9GbE7OTwKZg9tkuA3AHJZaizZ3CaBJMOahFu_5AaDt7oydc6WvrhPsp487spfqafziuXDfFlRSFnisa4bBq-nx2Ny_TioPT0UtLp8vhTbFu2N6PgiImZYNikc6hM4Ckh89TzZW5LyWvQjDhJsEPCoPkI2IT-q9ODdKaJ_LzSsxT69SLA8Pvhf1AQ5K5VLOSOwRoLSrASGDvFI6K1AieKMe09mPKmLNl37pvGaS_LQjgcjpLKmFFWDHVR1lneBciV8oTjPOi6OUzW0OsYMcZ3NGx2pZLc/p.jpeg">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.ibb.co/LN00N6H/frontend-text-2.jpg">
 <h1 align="center">Hi 👋, my name is Ignacio Erviti</h1>
 <h3 align="center">I am passionate about frontend development and design in all its aspects and forms of expression. I consider myself a very creative, hard-working and decisive person.</h3>
 
