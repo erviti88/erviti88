@@ -1,4 +1,4 @@
-<img style="width: 100%;display: block;margin: auto;cursor: zoom-in;" src="[https://i.ibb.co/LN00N6H/frontend-text-2.jpg](https://i.ibb.co/dmffm6x/frontend-text-2.jpg)">
+<img style="width: 100%;display: block;margin: auto;cursor: zoom-in;" src="https://i.ibb.co/dmffm6x/frontend-text-2.jpg">
 <h1 align="center">Hi 👋, my name is Ignacio Erviti</h1>
 <h3 align="center">I am passionate about frontend development and design in all its aspects and forms of expression. I consider myself a very creative, hard-working and decisive person.</h3>
 
